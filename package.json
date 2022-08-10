@@ -1,0 +1,14 @@
+{
+  "name": "ipsfnoob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Error6251",
+  "license": "ISC",
+  "dependencies": {
+    "ipfs-mini": "^1.1.5"
+  }
+}
